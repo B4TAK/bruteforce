@@ -2,7 +2,7 @@
 # coding=utf-8
 import time
 import os,sys
-from forceFB import brute
+import brute
 os.system("clear")
 
 def prRed(skk): print("\033[91m {}\033[00m" .format(skk)) 
