@@ -67,7 +67,7 @@ class fbr:
          inn = raw_input(me+(''))
          if(inn=='1'):
              print
-             fbbrute.shit()
+             brute.shit()
          elif(inn=='2'):
                  print
                  exit()
